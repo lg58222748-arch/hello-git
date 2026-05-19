@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(bmad-brainstorming)",
+      "Bash(python3 *)",
+      "Skill(bmad-prd)",
+      "Bash(python C:\\\\Users\\\\User\\\\bmad-test\\\\bmad-tutorial\\\\.claude\\\\skills\\\\bmad-agent-architect\\\\scripts\\\\resolve_customization.py --skill C:\\\\Users\\\\User\\\\bmad-test\\\\bmad-tutorial\\\\.claude\\\\skills\\\\bmad-agent-architect --key agent)",
+      "Bash(python *)",
+      "Bash(PYTHONIOENCODING=utf-8 python *)",
+      "Skill(bmad-agent-dev)",
+      "Skill(bmad-create-epics-and-stories)",
+      "Skill(bmad-create-architecture)",
+      "Bash(npm --version)",
+      "Bash(uv --version)",
+      "Bash(npx --version)",
+      "Bash(pip --version)",
+      "Bash(pipx --version)"
+    ]
+  }
+}
